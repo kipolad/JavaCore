@@ -11,7 +11,7 @@ import okhttp3.Response;
 import java.io.IOException;
 
 public class AccuweatherAPI {
-    private static final String API_KEY = "pXJd8MokcZCdrd2MsoGl2DBZAyCa0zvv";
+    private static final String API_KEY = "W5YCCVYJZ1NKqhYRgryEf24g9oMSbcGs";
 
     private static final String PROTOCOL = "https";
     private static final String HOST = "dataservice.accuweather.com";
