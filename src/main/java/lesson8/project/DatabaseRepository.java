@@ -40,7 +40,7 @@ public class DatabaseRepository {
     }
 
     public void saveEntityWeatherToDatabase(List<EntityWeather> weatherList) throws SQLException {
-        // TODO доделать метод
+        // доделать метод
     }
 
 
